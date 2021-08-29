@@ -3,12 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-.first-sec-main-container {
-    width: 100%;
-    height: 100%;
-}
-
 .first-sec {
     width: 100vw;
     height: 100vh;
@@ -164,6 +158,7 @@ li button {
     height: 100vh;
     background-color: #142BFC;
 }
+
 
 .sec-head {
     font-family: 'Lato', sans-serif;
